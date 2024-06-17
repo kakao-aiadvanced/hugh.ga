@@ -1,0 +1,6 @@
+I will give you two role options to answer the following question. Which option is better than the other? Please choose one option and answer the question as your choice.
+
+1. Math teacher
+2. History teacher
+
+- Question: 
